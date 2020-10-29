@@ -1,0 +1,7 @@
+br/com/caelum/livraria/bean/AutorBean.class
+br/com/caelum/livraria/modelo/Autor.class
+br/com/caelum/livraria/dao/PopulaBanco.class
+br/com/caelum/livraria/modelo/Livro.class
+br/com/caelum/livraria/bean/LivroBean.class
+br/com/caelum/livraria/dao/DAO.class
+br/com/caelum/livraria/dao/JPAUtil.class
